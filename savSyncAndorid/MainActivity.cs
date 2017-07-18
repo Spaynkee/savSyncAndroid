@@ -11,7 +11,7 @@ namespace savSyncAndorid
     [Activity(Label = "savSyncAndorid", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
-        int count = 1;
+        int count = 2;
 
         protected override void OnCreate(Bundle bundle)
         {
