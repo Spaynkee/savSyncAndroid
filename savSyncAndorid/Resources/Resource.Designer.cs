@@ -60,8 +60,20 @@ namespace savSyncAndorid
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f050001
+			public const int btnAdd = 2131034113;
+			
+			// aapt resource value: 0x7f050003
+			public const int btnGet = 2131034115;
+			
+			// aapt resource value: 0x7f050004
+			public const int btnPut = 2131034116;
+			
+			// aapt resource value: 0x7f050002
+			public const int btnRemove = 2131034114;
+			
 			// aapt resource value: 0x7f050000
-			public const int MyButton = 2131034112;
+			public const int listGames = 2131034112;
 			
 			static Id()
 			{
